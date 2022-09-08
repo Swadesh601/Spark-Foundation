@@ -1,1 +1,2 @@
-# Spark-Foundation
+THE SPARKS FOUNDATION DATA SCIENCE & BUSINESS ANALYTICS INTERNSHIP
+TASK 1 : Prediction using Supervised Machine Learning
